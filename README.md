@@ -60,5 +60,4 @@ for arquivos in lista_arquivos:
         merger.append(f"arquivos/{arquivos}") 
 merger.write("PDF Final.pdf")        
 print("PDFs unificados com sucesso! O arquivo 'PDF Final.pdf' foi criado.")
-merger.write("PDF Final.pdf")
-print("PDFs unificados com sucesso! O arquivo 'PDF Final.pdf' foi criado.")
+
